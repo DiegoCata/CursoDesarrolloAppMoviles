@@ -1,4 +1,4 @@
-package com.diego.cursodesarrolloaplicacionesmoviles.firstApp
+package com.diego.cursodesarrolloaplicacionesmoviles.CarpertaPrincipal.FirstApp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
